@@ -71,7 +71,7 @@ h1 {
     font-weight: 700;
     line-height: 55px;  }
   .typewriter h4 {
-    top: 30% !important;
+    top: 31% !important;
     left: 60%;
     transform: translate(-50%, -50%);
     color: #fff;
@@ -82,7 +82,7 @@ h1 {
 }
 @media only screen and (min-width: 768px) and (max-width: 1360px) {
     .typewriter h4 {
-      top: 50% !important;
+      top: 40% !important;
       left: 60%;
       font-family: "Roboto";
     }
