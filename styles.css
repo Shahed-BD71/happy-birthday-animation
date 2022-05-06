@@ -76,6 +76,7 @@ h1 {
     transform: translate(-50%, -50%);
     color: #fff;
     font-size: 2em;
+    font-family: "Roboto";
     font-weight: 600;
   }
 }
@@ -83,5 +84,6 @@ h1 {
     .typewriter h4 {
       top: 50% !important;
       left: 60%;
+      font-family: "Roboto";
     }
   }
